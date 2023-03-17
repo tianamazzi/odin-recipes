@@ -1,0 +1,39 @@
+body {
+    background-color: #F0FAF5;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1,
+h2 {
+    background-color: #B1BEB8;
+    font-weight:bolder;
+}
+
+ul,
+ol {
+    color: #846A6A;
+}
+
+h1,
+h2,
+p {
+    color: #30474A;
+}
+
+.recipe-list {
+    font-size:large;
+}
+
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+
+.main-h {
+    font-size: 50px;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
